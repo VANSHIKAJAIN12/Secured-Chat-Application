@@ -1,1 +1,1 @@
-# Secured-Chat-Application
+# Secure-Chat-Application
